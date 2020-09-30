@@ -6,7 +6,7 @@
 
 ---
 
-## Learning OpenCV 3 with Python - Second Edition
+## Learning OpenCV 3 with Python of  Second Edition
 
 This is the repository and reference website for [Learning OpenCV 3 Computer Vision with Python](https://www.packtpub.com/application-development/learning-opencv-3-computer-vision-python-second-edition), a book authored by [Joe Minichino](https://github.com/techfort) and [Joe Howse](https://github.com/JoeHowse), and published by Packt Publishing.
 
